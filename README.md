@@ -1,6 +1,7 @@
 ## pyqt 학습용 프로젝트
 
 * 그냥 여기저기 사이트의 예제를 실행해 볼 목적으로 작성
+** tetris 디렉토리; zetcode Tetris 예제 학습용
 
 * [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/)
     1. [사용할 이미지 다운받은 곳](https://github.com/AlexandreCarlos/PyQt_Tutorial/tree/master/image)
